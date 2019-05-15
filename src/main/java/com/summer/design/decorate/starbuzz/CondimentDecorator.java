@@ -1,4 +1,4 @@
-package com.summer.design.decorate.starbuzz.dec;
+package com.summer.design.decorate.starbuzz;
 
 import com.summer.design.decorate.starbuzz.Beverage;
 
